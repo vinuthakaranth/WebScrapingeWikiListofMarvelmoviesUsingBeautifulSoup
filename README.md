@@ -5,5 +5,5 @@ Python code to Web scrape wiki page - List of Marvel Movies page(Using page link
 
 How to execute code? Open the jupyter notebook using Anaconda and run each cell of the file (Jupyter file contains code which can be helpful for retriving data in different ways). This file also contains graph plot code.
 
-Python code can be run directly using python filename.py in the terminal and output file will be created in the current folder.
+Python code can be run directly using 'python filename.py' in the terminal and output file will be created in the current folder.
 
